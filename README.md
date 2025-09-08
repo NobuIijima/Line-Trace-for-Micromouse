@@ -1,4 +1,4 @@
-# LineTrace for Micromouse with Simulink&reg;
+# Line Trace for Micromouse with Simulink&reg;
 
 Micromouse is a small robot about the size of your palm.
 This robot can detect a black line on the floor using sensors and automatically follow the line.
