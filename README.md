@@ -19,7 +19,7 @@ This submission includes two models: a simulation model and a hardware implement
 
 3. Run the model.
 
-![Simulation GIF](https://gitlab.com/NobuIijima/LineTracer/-/raw/main/ImageForGit/Simulation_Gif.gif)
+![[Simulation GIF](https://gitlab.com/NobuIijima/LineTracer/-/raw/main/ImageForGit/Simulation_Gif.gif)]
 
 ## Hardware Implementation Model
 
